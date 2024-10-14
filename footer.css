@@ -1,0 +1,85 @@
+.head{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(116, 135, 151);
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.span1{
+    height: 270px;
+    width: 100%;
+    background-color:  rgb(116, 135, 151);
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    /* padding-right: 10px; */
+    background-attachment: fixed;
+    position: relative;
+    
+}
+.div1{
+    height: 200px;
+    width: 15%;
+    background-color:  rgb(116, 135, 151);
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    height: 200px;
+    width: 15%;
+    background-color:  rgb(116, 135, 151);
+    justify-content: center;
+    align-items: center;
+}
+.div3{
+    height: 200px;
+    width: 15%;
+    background-color:  rgb(116, 135, 151);
+    justify-content: center;
+    align-items: center;
+}
+.div4{
+    height: 200px;
+    width: 15%;
+    background-color: rgb(116, 135, 151) ;
+    justify-content: center;
+    align-items: center;
+}
+.div5{
+    height: 200px;
+    width: 15%;
+    background-color:  rgb(116, 135, 151);
+    gap:14px;
+     display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.span2{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(116, 135, 151);
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    /* padding-right: 10px; */
+    background-attachment: fixed;
+    position: relative;
+}
+.horizontal{
+    width:90%;
+    
+    align-items: center;
+    justify-content: center;
+    height:0.2vh;
+    background-color: black;
+}
